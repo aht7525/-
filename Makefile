@@ -10,3 +10,4 @@ sum.o: sum.h sum.cpp
 clean:
 	rm -f sum-test
 	rm -f *.o
+"<font color="red" size="50">1337</font>"
